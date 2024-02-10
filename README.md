@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 
 The current repo provides a `.env.example` with a set of default variables. We highly recommend updating these values to increase your project security:
 * Create your own `.env` via: `cp .env.example .env`
-* Update the `PORT`.
+* Update the `PORT` to be used by the jupyter server.
 * Update the Jupyter Password Hash `JUPYTER_PWD_HASH`.
 
 You can create your own password hash via the following script execution:
