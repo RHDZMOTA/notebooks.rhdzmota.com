@@ -1,0 +1,8 @@
+{
+    "default": {
+        "rebuild": false
+    },
+    "example-hello-world.ipynb": {
+        "rebuild": true
+    }
+}
